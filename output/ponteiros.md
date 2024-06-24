@@ -1,5 +1,5 @@
 <p align="center">
-    <img width="100" src=".github/assets/capaCPP.png">
+    <img width="1010" src="https://github.com/FerrariusF/Ponteiros/blob/main/assets/capaCPP.png">
 </p>
 
 ## Introdução
