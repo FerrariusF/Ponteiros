@@ -41,7 +41,7 @@ Aprender um assunto novo e explicar é muito bom para a organização e estrutur
 
 ## 🧭 Fontes de produção
 
-- Ilustração da capa: Gerada por Lexica.art.
+- Ilustrações da capa e banners: Gerada por Lexica.art.
 
 
 ## 🌏 Redes sociais
