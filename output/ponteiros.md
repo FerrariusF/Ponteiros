@@ -31,9 +31,11 @@ int main() {
 Neste exemplo 'ptr' é um ponteiro que guarda o endereço da variável 'var'. A partir da referencia do ponteiro é possivel acessar e modificar o valor da variável em questão diretamente na memória.
 
 
-## Comparação de código com e sem ponteiros
+<p align="center">
+    <img width="1010" src="https://github.com/FerrariusF/Ponteiros/blob/main/assets/comparando-codigos.png">
+</p>
 
-A seguir tempos o mesmo código, mas em um utilizamos ponteiros para realizar a alteração do valor da variável e veremos como isso impacta em seu valor final.
+A seguir temos o mesmo código, mas em um utilizamos ponteiros para realizar a alteração do valor da variável e veremos como isso impacta em seu valor final.
 
 ```cpp
 #include <iostream>
@@ -71,7 +73,9 @@ int main() {
 Ao final da execução a variável 'num' vale 11. Isso aconteceu pois, ao chamar a função passando o endereço de 'num', a própria 'num' pode ser modificada a partir de seu endereço usando o ponteiro, permitindo que seu valor fosse incrementado. 
 
 
-## Quando usar ponteiros?
+<p align="center">
+    <img width="1010" src="https://github.com/FerrariusF/Ponteiros/blob/main/assets/quando-usar.png">
+</p>
 
 Os usos de ponteiros são diversos, alguns deles são:
 
@@ -207,12 +211,16 @@ int main() {
 ```
 
 
-## Melhorando códigos com ponteiros
+<p align="center">
+    <img width="1010" src="https://github.com/FerrariusF/Ponteiros/blob/main/assets/melhorando-codigos.png">
+</p>
 
 O uso de ponteiros no seu código pode trazer eficiência e desempenho ao permitir manipulações diretas da memória, sem ter que realizar cópias desnecessárias de grandes estruturas de dados, que poderiam trazer grande aumento de complexidade espacial do seu código. Além disso, ponteiros facilitam o uso de estruturas de dados complexas de com manipulação dinâmica de memória, permitindo maior flexibilidade para sua implementação.
 
 
-## Conclusão
+<p align="center">
+    <img width="1010" src="https://github.com/FerrariusF/Ponteiros/blob/main/assets/conclusao.png">
+</p>
 
 Ponteiros são uma ferramentas poderosa para o programador, que permitem que melhore seu controle sobre a memória ao conseguir trabalhar de maneira direta com ela, além de criar e manipular estruturas de dados e algorítmos eficientes. O funcionamento de ponteiros além de aprofundar o conhecimento de hardware do desenvolvedor também é indispensável no desenvolvimento de softwares de melhor performance.
 
