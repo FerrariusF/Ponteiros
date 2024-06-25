@@ -6,6 +6,8 @@
 
 O projeto teve como objetivo aprender um assunto novo, desevolver um artigo de conteúdo didático sobre o assunto, de maneira a testar e melhorar meu entendimento ao tentar explica-lo, além de gerar um conteúdo útil a quem também deseja aprender o assuto.
 
+- Confira o artigo [aqui](https://github.com/FerrariusF/Ponteiros/blob/main/output/ponteiros.md).
+
 ## 📚 Materiais
 
 - `Assets` contêm as imagens utilizadas.
